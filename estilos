@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+
+}
+
+.contenedor{
+    background-image: url("https://i.pinimg.com/originals/68/13/1f/68131f853c544979abba0e3a842537d0.jpg");
+    background-size: cover;
+    color:white;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: x-large;
+    padding: 10%;
+}
+
+button{
+    font-size: x-large;
+    padding: 0.75 em;
+}
+
+#yesBtn{
+    transform: translate(-30%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
