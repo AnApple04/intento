@@ -4,7 +4,7 @@
 }
 
 .contenedor{
-    background-image: url("https://i.pinimg.com/originals/68/13/1f/68131f853c544979abba0e3a842537d0.jpg");
+    background-image: url("https://i.pinimg.com/originals/62/48/2a/62482a319b12f9d6775909e83b33ba4c.jpg");
     background-size: cover;
     color:white;
     width: 100vw;
@@ -14,7 +14,7 @@
 
 p{
     font-size: x-large;
-    padding: 20%;
+    padding: 10%;
 }
 
 button{
@@ -23,7 +23,7 @@ button{
 }
 
 #yesBtn{
-    transform: translate(-20%,0);
+    transform: translate(-30%,0);
 }
 
 #noBtn{
